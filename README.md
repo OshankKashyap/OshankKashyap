@@ -4,11 +4,6 @@
 
 <h1 align="center">[ OSHANK KASHYAP ]</h1>
 <h3 align="center">// Junior Penetration Tester | Bug Hunter | CTF Player</h3>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/OshankKashyap.png" alt="TryHackMe Badge" />
-</p>
-
 ---
 
 ## $ whoami
