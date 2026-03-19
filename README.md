@@ -2,8 +2,8 @@
   <img src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif" />
 </p>
 
-<h1>[ OSHANK KASHYAP AKA `v01dw4lk3r`]</h1>
-<h3>// Junior Penetration Tester | Bug Hunter | CTF Player</h3>
+## [ OSHANK KASHYAP] - AKA `v01dw4lk3r`
+#### // Junior Penetration Tester | Bug Hunter | CTF Player
 
 ---
 
